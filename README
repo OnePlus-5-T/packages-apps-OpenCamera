@@ -1,0 +1,12 @@
+Author: Mark Harman
+
+License: GNU General Public License v3.0 or later https://www.gnu.org/licenses/gpl-3.0-standalone.html
+
+Web site: https://opencamera.org.uk/
+
+Sources: https://sourceforge.net/p/opencamera/code
+
+Apks: https://sourceforge.net/projects/opencamera/files/
+
+This repository includes the apk available on sourceforge, untouched.
+If the apk is preinstalled in the OS, it can be updated downloading a new apk from sourceforge.

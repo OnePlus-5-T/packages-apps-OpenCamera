@@ -1,0 +1,11 @@
+android_app_import {
+	name: "OpenCamera",
+	apk: "OpenCamera.apk",
+	presigned: true,
+	overrides: ["Camera2"],
+	dex_preopt: {
+		enabled: true,
+	},
+	preprocessed: true,
+	vendor: true,
+}
